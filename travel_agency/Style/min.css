@@ -1,0 +1,57 @@
+﻿body {
+    /*background-image: url(../Images/sea.jpg) !important;*/
+    background-color :lightgray !important;
+    color: black !important;
+}
+
+.button {
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 4px 2px;
+    padding: 10px 24px;
+}
+.cont{
+    background-color:grey;
+}
+.button1 {
+    background-color: green; 
+}
+
+.button2 {
+    background-color: red;
+}
+
+.button3 {
+    background-color: blue;
+}
+.button4 {
+    background-color: orangered;
+}
+#searchBT{
+    background-color :yellowgreen;
+    color:white;
+}
+#AddBT {
+    background-color: orange;
+    color: white;
+}
+#d1{
+    float:left !important;
+}
+#d2 {
+    float: left !important;
+    height: 300px;
+    width:400px;
+}
+#d3 {
+    float: left !important;
+    height: 200px;
+    width: 200px;
+}
+#d4 {
+    clear: both !important;
+}

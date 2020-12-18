@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Style/min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <script type="text/javascript">
+
+			var numer = Math.floor(Math.random()*5)+1;
+
+			var timer1 = 0;
+			var timer2 = 0;
+
+			function ustawslajd(nrslajdu)
+			{
+				clearTimeout(timer1);
+				clearTimeout(timer2);
+				numer = nrslajdu - 1;
+
+				schowaj();
+				setTimeout("zmienslajd()", 500);
+
+			}
+
+			function schowaj()
+			{
+				$("#slider").fadeOut(500);
+			}
+
+			function zmienslajd()
+			{
+				numer++; if (numer>5) numer=1;
+
+                var plik = "<img  src=\"../Images/slajdy/slajd" + numer + ".jpg\" />";
+
+				document.getElementById("slider").innerHTML = plik;
+				$("#slider").fadeIn(500);
+
+				timer1 = setTimeout("zmienslajd()", 5000);
+				timer2 = setTimeout("schowaj()", 4500);
+
+			}
+
+    </script>
+</head>
+<body onload="zmienslajd()">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Biuro Veracruz", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    <li>@Html.ActionLink("O nas", "About", "Home")</li>
+                    <li>@Html.ActionLink("Aktualności", "Index", "Topicalities")</li>
+                    <li>@Html.ActionLink("Oferta", "Index", "Offers")</li>
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li>@Html.ActionLink("Profile", "Index", "Profiles")</li>
+                        <li>@Html.ActionLink("Zamówienia", "Index", "Orders")</li>
+                    }
+                    @if (Context.User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink("Email", "SendEmail", "Home")</li>
+                        <li>@Html.ActionLink("Uczestnicy", "Index", "Participants")</li>
+                    }
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Moja aplikacja ASP.NET</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

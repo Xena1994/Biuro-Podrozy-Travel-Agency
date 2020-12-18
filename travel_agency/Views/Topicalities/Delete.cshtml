@@ -1,0 +1,32 @@
+﻿@model travel_agency.Models.Topicality
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Usunięcie</h2>
+
+<h3>Czy napewno chcesz usunąć tą aktualność?</h3>
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDescription)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" /> |
+            @Html.ActionLink("Powrót do listy", "Index")
+        </div>
+    }
+</div>

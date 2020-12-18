@@ -1,0 +1,85 @@
+﻿@model travel_agency.Models.Orders
+
+@{
+    ViewBag.Title = "Details";
+}
+    <div class=" jumbotron ">
+        <h2>Szczegóły</h2>
+    </div>
+
+        <div>
+
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.offer.NameOffer)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.offer.NameOffer)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UserName)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UserName)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.NumberOfChildern)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NumberOfChildern)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.NumberOfAdult)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NumberOfAdult)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.status)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.status)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.TransactionDate)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.TransactionDate)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.costs)
+                </dt>
+
+                <dd>
+                    @Model.CostOFTheTrip(Model.NumberOfChildern, Model.NumberOfAdult, Model.OfferID)
+                </dd>
+
+            </dl>
+        </div>
+        <p>
+            @if (Context.User.IsInRole("Admin"))
+            {
+                @Html.ActionLink("Edycja |", "Edit", new { id = Model.ID })
+
+            }
+            @if (Request.IsAuthenticated)
+            {
+                @Html.ActionLink("Profil użytkownika |", "Details", "Profiles", new { id = (int)Model.SearchID(Model.UserName) }, null)
+                @Html.ActionLink("Dane wycieczki", "Details", "Offers", new { id = Model.OfferID }, null)
+            }
+
+            @Html.ActionLink("Powrót", "Index")
+        </p>

@@ -1,0 +1,136 @@
+﻿@model travel_agency.Models.Offer
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<h3>Czy jesteś pewien iż chcesz usunąć tą oferte?</h3>
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NameOffer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameOffer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TravelDestination)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TravelDestination)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lengthOfStay)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lengthOfStay)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tripCategory)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tripCategory)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfFreePlaces)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfFreePlaces)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfOccupiedPlaces)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfOccupiedPlaces)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PricePerPerson)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PricePerPerson)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.startDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.startDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.transport)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.transport)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.accommodation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.accommodation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AllInclusive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AllInclusive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default button1" /> |
+            @Html.ActionLink("Powrót", "Index" , null , new { @class = "btn btn-primary btn-large button3" })
+        </div>
+    }
+</div>

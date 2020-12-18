@@ -1,0 +1,229 @@
+﻿@model travel_agency.ViewModels.OfferOrdersViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+    <div class=" jumbotron ">
+        <h2>Szczególy oferty</h2>
+     </div>
+
+            <div class="cont">
+
+
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+
+                    </dt>
+                    <dd>
+                        <img src="~/Images/@Model.OfferVM.Image" alt="" height="700px" width="800px" />
+
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.NameOffer)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.NameOffer)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.TravelDestination)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.TravelDestination)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.lengthOfStay)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.lengthOfStay)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.tripCategory)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.tripCategory)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.TripDescription)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.TripDescription)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.NumberOfFreePlaces)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.NumberOfFreePlaces)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.NumberOfOccupiedPlaces)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.NumberOfOccupiedPlaces)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.PricePerPerson)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.PricePerPerson)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.startDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.startDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.EndDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.EndDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.transport)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.transport)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.accommodation)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.accommodation)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.OfferVM.AllInclusive)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.OfferVM.AllInclusive)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @if (Context.User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Edycja", "Edit", new { id = Model.OfferVM.ID }, new { @class = "btn btn-primary btn-large button1" })
+
+                }
+                @Html.ActionLink("Powrót do listy", "Index", null, new { @class = "btn btn-primary btn-large button3" })
+            </p>
+            @if (Request.IsAuthenticated)
+            {
+                if (Model.OfferVM.NumberOfOccupiedPlaces >= Model.OfferVM.NumberOfFreePlaces)
+                {
+                        <h3>Brak wolnych miejsc</h3>
+                }
+                else
+                {
+                    using (Html.BeginForm("Create", "Orders", FormMethod.Post))
+
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-horizontal">
+                            <h4>Zamów wycieczke!</h4>
+                            <hr />
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="form-group">
+                                @Html.HiddenFor(model => model.OrdersVM.OfferID)
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.OrdersVM.NumberOfAdult, htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.OrdersVM.NumberOfAdult, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.OrdersVM.NumberOfAdult, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.OrdersVM.NumberOfChildern, htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.OrdersVM.NumberOfChildern, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.OrdersVM.NumberOfChildern, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Zamów" class="btn btn-default" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            }
+            @if (Model.OfferVM.ID == Model.OrdersVM.OfferID && Context.User.IsInRole("Admin"))
+            {
+                <table class="table">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrdersVM.UserName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrdersVM.NumberOfChildern)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrdersVM.NumberOfAdult)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrdersVM.status)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrdersVM.TransactionDate)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrdersVM.costs)
+                        </th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model.OrdersVME)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.UserName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NumberOfChildern)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NumberOfAdult)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.status)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TransactionDate)
+                            </td>
+                            <td>
+                                @item.CostOFTheTrip(item.NumberOfChildern, item.NumberOfAdult, item.OfferID)
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+

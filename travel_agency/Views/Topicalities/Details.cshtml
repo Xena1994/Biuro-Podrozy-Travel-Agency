@@ -1,0 +1,25 @@
+﻿@model travel_agency.Models.Topicality
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDescription)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edytuj", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Powrót do listy ", "Index")
+</p>

@@ -1,0 +1,671 @@
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\travel_agency.dll.config
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\travel_agency.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\travel_agency.pdb
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Net.Http.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\EntityFramework.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Owin.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\WebGrease.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\EntityFramework.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\obj\Debug\travel_agency.csproj.CopyComplete
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\obj\Debug\travel_agency.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\obj\Debug\travel_agency.pdb
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Http.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Http.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\PagedList.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\PagedList.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Documents\C#Projects\travel_agency\travel_agency\obj\Debug\travel_agency.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\travel_agency.dll.config
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\travel_agency.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\travel_agency.pdb
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Net.Http.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Data.Entity.Repository.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Http.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Http.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\obj\Debug\travel_agency.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\obj\Debug\travel_agency.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\obj\Debug\travel_agency.dll
+C:\Users\Aleksandra\Desktop\tp\travel_agency\travel_agency\obj\Debug\travel_agency.pdb
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\travel_agency.dll.config
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\travel_agency.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\travel_agency.pdb
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Net.Http.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Data.Entity.Repository.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.pdb
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Identity.Client.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Buffers.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.ComponentModel.Annotations.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Memory.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Numerics.Vectors.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Options.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Identity.Client.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Buffers.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Collections.Immutable.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Memory.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Numerics.Vectors.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\praca dyplomowa\travel_agency\travel_agency\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\travel_agency.dll.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\travel_agency.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\travel_agency.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Net.Http.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Identity.Client.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Buffers.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.ComponentModel.Annotations.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Data.Entity.Repository.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Memory.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Numerics.Vectors.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Options.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Identity.Client.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Buffers.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Collections.Immutable.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Memory.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Numerics.Vectors.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\praca dyplomowa\travel_agency\travel_agency\obj\Debug\travel_agency.pdb

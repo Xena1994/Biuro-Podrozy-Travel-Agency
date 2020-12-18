@@ -1,0 +1,87 @@
+﻿@model IEnumerable<travel_agency.Models.Participant>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1>Uczestnicy</h1>
+</div>
+<label>
+    @Html.ActionLink("Dodaj uczestnika", "Create")
+</label>
+<Reader>
+    <div class="row">
+        <div class="col-md-4">
+            @using (Html.BeginForm("OpenFile", "Participants", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <label>Załaduj liste uczestników z pliku excel</label>
+                <input type="file" class="form-control" name="excelFile" id="excelFile" />
+                <br />
+                <button class="btn btn-primary" type="submit"> załaduj</button>
+            }
+        </div>
+    </div>
+</Reader>
+<div class="w3-container w3-center w3-animate-bottom">
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.ActionLink("Cel Wyjazdu: ", "Index", new { sortOrder = ViewBag.OfferSortParm })
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.ActionLink("Nazwisko: ", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Street)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfHouse)
+            </th>
+            <th>
+                @Html.ActionLink("Lat (wiek) : ", "Index", new { sortOrder = ViewBag.DoubleSortParm })
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.offer.NameOffer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Street)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumberOfHouse)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.ActionLink("Usuń | ", "Delete", new { id = item.ID }, new { @class = "btn btn-primary btn-large button2" })
+                    @Html.ActionLink("Szczegóły | ", "Details", new { id = item.ID }, new { @class = "btn btn-primary btn-large button3" })
+                    @Html.ActionLink("Edycja", "Edit", new { id = item.ID }, new { @class = "btn btn-primary btn-large button1" })
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div />
